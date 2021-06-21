@@ -1,0 +1,6 @@
+/Users/twins/Desktop/worksample/worksample/obj/Debug/worksample.csproj.AssemblyReference.cache
+/Users/twins/Desktop/worksample/worksample/obj/Debug/worksample.csproj.CoreCompileInputs.cache
+/Users/twins/Desktop/worksample/worksample/bin/Debug/worksample.exe
+/Users/twins/Desktop/worksample/worksample/bin/Debug/worksample.pdb
+/Users/twins/Desktop/worksample/worksample/obj/Debug/worksample.exe
+/Users/twins/Desktop/worksample/worksample/obj/Debug/worksample.pdb
